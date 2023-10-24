@@ -37,4 +37,12 @@ Este proyecto utiliza:
 - URL sitio oficial : <a href="https://gym-react.000webhostapp.com/" target="_blank">https://gym-react.000webhostapp.com/</a> 
 - URL de Github: <a href="https://emizanipro.github.io/Gym-box/" target="_blank">https://emizanipro.github.io/Gym-box/</a>
 
+<br>
+<br>
 
+<h3 align="left">Conéctate conmigo:</h3>
+
+
+
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/emizanipro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/emizanipro" height="30" width="40" />
